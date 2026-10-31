@@ -1,0 +1,10 @@
+yolov5
+yolov5/
+core
+*.pt
+setup/torchvision/
+.convert_venv/
+*venv*/
+__pycache__/
+*.pyc
+*.whl

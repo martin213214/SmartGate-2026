@@ -1,0 +1,21 @@
+{
+    "model": {
+        "path": "../models/marsupial_16s.engine",
+        "classes": "../models/classes/marsupial_16s.txt",
+        "confidence": 0.6
+    },
+    "rules": [
+        {
+            "objects": ["Swamp Wallaby", "Eastern Grey Kangaroo", "Common Wombat", "Red-necked Wallaby", "Long-nosed Bandicoot", "Short-eared Brushtail Possum", "Euro", "Red-necked Pademelon", "Common Brushtail Possum"],
+            "action": "OPEN"
+        },
+        {
+            "objects": ["Red Fox", "Fallow Deer", "Pig"],
+            "action": "CLOSE"
+        }
+    ],
+    
+    "server": {
+        "port": 8080
+    }
+}

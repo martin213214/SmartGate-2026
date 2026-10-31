@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{title}} - SmartGate</title>
+    <link href="https://unpkg.com/tabulator-tables@6.7.1/dist/css/tabulator.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/site.css" />
+    <!-- Shared scripts. Page scripts are loaded at the end of each page's HTML. -->
+    <script defer src="/socket.io/socket.io.js"></script>
+    <script type="module" src="/static/js/websocket-client.js"></script>
+    <script type="module" src="/static/js/site.js"></script>
+</head>
+<body data-page="{{page}}">
+    <header>
+        <a href="/" class="logo">
+            <span class="logo-badge"><img src="/static/images/opensi-logo.png" alt="OpenSI" width="44" height="30"></span>
+            <span class="logo-text">Smart Gate</span>
+        </a>
+        <nav>
+            <ul>
+                <li><a href="/">HOME</a></li>
+                <li><a href="/gates">LIVE STREAM</a></li>
+                <li><a href="/alerts">ALERTS</a></li>
+                <li><a href="/users">USERS</a></li>
+                <li><a href="/stats">DASHBOARD</a></li>
+                <li><a href="/about">ABOUT US</a></li>
+            </ul>
+        </nav>
+        {{user_section}}
+    </header>
+
+    <main>
+        {{content}}
+    </main>
+
+    <footer>
+        <div class="footer-container">
+            <div class="footer-left">
+                <p>© 2026 SmartGate | Protecting Endangered Species</p>
+            </div>
+        </div>
+        <p class="footer-bottom">&copy; 2026 SmartGate. Powered by Jetson Nano & TensorRT.</p>
+    </footer>
+</body>
+</html>

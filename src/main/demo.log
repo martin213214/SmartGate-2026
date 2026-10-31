@@ -1,0 +1,6174 @@
+[10/24/2026-11:47:24] [TRT] [I] Loaded engine size: 15 MiB
+[10/24/2026-11:47:24] [TRT] [W] Using an engine plan file across different models of devices is not supported and is likely to affect performance or even cause errors or deadlock.
+[10/24/2026-11:47:24] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +16, now: CPU 0, GPU 29 (MiB)
+/usr/local/lib/python3.12/dist-packages/Jetson/GPIO/gpio_cdev.py:361: UserWarning: 
+[WARNING] User requested output for channel "7", but it is set to input in pinmux. For more information on resolving this, please see
+https://docs.nvidia.com/jetson/archives/r36.3/DeveloperGuide/HR/JetsonModuleAdaptationAndBringUp/JetsonOrinNxNanoSeries.html#generating-the-pinmux-dtsi-files
+
+This can be resolved *temporarily* (until next restart) by running:
+    sudo busybox devmem 0x2448030 w 0xA
+
+  warnings.warn(
+GST_ARGUS: Creating output stream
+CONSUMER: Waiting until producer is connected...
+GST_ARGUS: Available Sensor modes :
+GST_ARGUS: 3280 x 2464 FR = 21.000000 fps Duration = 47619048 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 3280 x 1848 FR = 28.000001 fps Duration = 35714284 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1920 x 1080 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1640 x 1232 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 59.999999 fps Duration = 16666667 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: Running with following settings:
+   Camera index = 0 
+   Camera mode  = 2 
+   Output Stream W = 1920 H = 1080 
+   seconds to Run    = 0 
+   Frame Rate = 29.999999 
+GST_ARGUS: Setup Complete, Starting captures for 0 seconds
+GST_ARGUS: Starting repeat capture requests.
+CONSUMER: Producer has connected; continuing.
+[ WARN:0@1.614] global cap_gstreamer.cpp:1777 open OpenCV | GStreamer warning: Cannot query video position: status=0, value=-1, duration=-1
+137.92.215.193 - - [24/Oct/2026 11:47:26] "GET /stream?t=1792842444719 HTTP/1.1" 404 -
+137.92.215.193 - - [24/Oct/2026 11:47:30] "GET /stream?t=1792842448725 HTTP/1.1" 404 -
+[+] Running server under port 8080
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Obtaining static resources...
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Obtaining static resources...
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.137.92.215.193 - - [24/Oct/2026 11:47:34] "GET /stream?t=1792842452723 HTTP/1.1" 404 -
+127.0.0.1 - - [24/Oct/2026 11:47:35] "GET /api/status HTTP/1.1" 404 -
+127.0.0.1 - - [24/Oct/2026 11:47:35] "GET /api/analytics?days=7 HTTP/1.1" 404 -
+127.0.0.1 - - [24/Oct/2026 11:47:35] "GET /api/events?limit=100 HTTP/1.1" 404 -
+127.0.0.1 - - [24/Oct/2026 11:47:35] "GET /stream?t=1792842455393 HTTP/1.1" 404 -
+127.0.0.1 - - [24/Oct/2026 11:47:36] "GET /api/status HTTP/1.1" 404 -
+127.0.0.1 - - [24/Oct/2026 11:47:37] "GET /api/status HTTP/1.1" 404 -
+137.92.215.193 - - [24/Oct/2026 11:47:38] "GET /stream?t=1792842456732 HTTP/1.1" 404 -
+
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+Obtaining static resources...
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Obtaining static resources...
+Obtaining static resources...
+Obtaining static resources...
+System is idle.
+Obtaining static resources...
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Obtaining static resources...
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+Obtaining static resources...
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Obtaining static resources...
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.127.0.0.1 - - [24/Oct/2026 11:47:38] "GET /api/status HTTP/1.1" 404 -
+127.0.0.1 - - [24/Oct/2026 11:47:38] "GET /stream?t=1792842458582 HTTP/1.1" 404 -
+127.0.0.1 - - [24/Oct/2026 11:47:39] "GET /api/status HTTP/1.1" 404 -
+127.0.0.1 - - [24/Oct/2026 11:47:40] "GET /api/events?limit=100 HTTP/1.1" 404 -
+127.0.0.1 - - [24/Oct/2026 11:47:40] "GET /api/status HTTP/1.1" 404 -
+127.0.0.1 - - [24/Oct/2026 11:47:41] "GET /api/status HTTP/1.1" 404 -
+127.0.0.1 - - [24/Oct/2026 11:47:41] "GET /stream?t=1792842461620 HTTP/1.1" 404 -
+127.0.0.1 - - [24/Oct/2026 11:47:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [24/Oct/2026 11:47:42] "GET /index.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Oct/2026 11:47:42] "GET /index.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Oct/2026 11:47:42] "GET /jquery-3.7.1.js HTTP/1.1" 200 -
+127.0.0.1 - - [24/Oct/2026 11:47:42] "GET /index.css HTTP/1.1" 200 -
+137.92.215.193 - - [24/Oct/2026 11:47:42] "GET /stream?t=1792842460733 HTTP/1.1" 404 -
+127.0.0.1 - - [24/Oct/2026 11:47:42] "GET /logo.png HTTP/1.1" 200 -
+127.0.0.1 - - [24/Oct/2026 11:47:42] "GET /stream HTTP/1.1" 200 -
+
+Obtaining static resources...
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Obtaining static resources...
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Obtaining static resources...
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Obtaining static resources...
+Obtaining static resources...
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Obtaining static resources...
+System is idle.
+Obtaining static resources...
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Obtaining static resources...
+Decision making door.
+System is idle.
+Obtaining static resources...
+Detecting objects.
+Obtaining static resources...
+Obtaining static resources...
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Obtaining static resources...
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Obtaining static resources...
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.137.92.215.193 - - [24/Oct/2026 11:47:46] "GET /stream?t=1792842464723 HTTP/1.1" 404 -
+127.0.0.1 - - [24/Oct/2026 11:47:48] "GET /stream HTTP/1.1" 200 -
+137.92.215.193 - - [24/Oct/2026 11:47:50] "GET /stream?t=1792842468718 HTTP/1.1" 404 -
+
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+Closing door.
+Door closing started.
+System is idle.
+Detecting objects.
+Obtaining static resources...
+Decision making door.
+Closing door.
+Door is already closing.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Obtaining static resources...
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.137.92.215.193 - - [24/Oct/2026 11:47:54] "GET /stream?t=1792842472726 HTTP/1.1" 404 -
+137.92.215.193 - - [24/Oct/2026 11:47:58] "GET /stream?t=1792842476730 HTTP/1.1" 404 -
+
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Obtaining static resources...
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Obtaining static resources...
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.137.92.215.193 - - [24/Oct/2026 11:48:02] "GET /stream?t=1792842480727 HTTP/1.1" 404 -
+137.92.215.193 - - [24/Oct/2026 11:48:06] "GET /stream?t=1792842484720 HTTP/1.1" 404 -
+
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Obtaining static resources...
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Obtaining static resources...
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.137.92.215.193 - - [24/Oct/2026 11:48:10] "GET /stream?t=1792842488725 HTTP/1.1" 404 -
+
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+Obtaining static resources...
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.137.92.215.193 - - [24/Oct/2026 11:48:14] "GET /stream?t=1792842492719 HTTP/1.1" 404 -
+137.92.215.193 - - [24/Oct/2026 11:48:18] "GET /stream?t=1792842496725 HTTP/1.1" 404 -
+
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+Obtaining static resources...
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Obtaining static resources...
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.137.92.215.193 - - [24/Oct/2026 11:48:22] "GET /stream?t=1792842500721 HTTP/1.1" 404 -
+137.92.215.193 - - [24/Oct/2026 11:48:26] "GET /stream?t=1792842504728 HTTP/1.1" 404 -
+
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Obtaining static resources...
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Obtaining static resources...
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.137.92.215.193 - - [24/Oct/2026 11:48:30] "GET /stream?t=1792842508717 HTTP/1.1" 404 -
+137.92.215.193 - - [24/Oct/2026 11:48:34] "GET /stream?t=1792842512729 HTTP/1.1" 404 -
+
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Obtaining static resources...
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Door fully closed, stopping motor.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Obtaining static resources...
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.137.92.215.193 - - [24/Oct/2026 11:48:38] "GET /stream?t=1792842516727 HTTP/1.1" 404 -
+137.92.215.193 - - [24/Oct/2026 11:48:42] "GET /stream?t=1792842520737 HTTP/1.1" 404 -
+
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Obtaining static resources...
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Obtaining static resources...
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.137.92.215.193 - - [24/Oct/2026 11:48:46] "GET /stream?t=1792842524729 HTTP/1.1" 404 -
+137.92.215.193 - - [24/Oct/2026 11:48:50] "GET /stream?t=1792842528725 HTTP/1.1" 404 -
+
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+Obtaining static resources...
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Obtaining static resources...
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.137.92.215.193 - - [24/Oct/2026 11:48:54] "GET /stream?t=1792842532720 HTTP/1.1" 404 -
+137.92.215.193 - - [24/Oct/2026 11:48:58] "GET /stream?t=1792842536726 HTTP/1.1" 404 -
+
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Obtaining static resources...
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Obtaining static resources...
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.137.92.215.193 - - [24/Oct/2026 11:49:02] "GET /stream?t=1792842540729 HTTP/1.1" 404 -
+137.92.215.193 - - [24/Oct/2026 11:49:06] "GET /stream?t=1792842544718 HTTP/1.1" 404 -
+
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Obtaining static resources...
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Obtaining static resources...
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
+Decision making door.
+System is idle.
+Detecting objects.
